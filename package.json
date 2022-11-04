@@ -1,7 +1,7 @@
 {
-  "name": "kryptobot",
+  "name": "krypto",
   "version": "2.0.0",
-  "description": "Discord bot tracks crypto price",
+  "description": "Discord bot tracks OK price",
   "main": "src/index.js",
   "scripts": {
     "dev": "nodemon -r dotenv/config ./src/index.js",
@@ -29,16 +29,16 @@
   "engines": {
     "node": ">=16.0.0"
   },
-  "author": "Omar Aziz <omars@hey.com> (https://omars.io)",
+  "author": "toshi <devteam@okcash.co> (https://okcash.co)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Omar-Aziz/KryptoBOT"
+    "url": "https://github.com/oktoshi/krypto"
   },
   "bugs": {
-    "url": "https://github.com/Omar-Aziz/KryptoBOT"
+    "url": "https://github.com/oktoshi/krypto"
   },
-  "homepage": "https://github.com/Omar-Aziz/KryptoBOT#readme",
+  "homepage": "https://github.com/oktoshi/krypto#readme",
   "keywords": [
     "discord",
     "bot",
@@ -46,6 +46,6 @@
     "discord-bot",
     "cryptocurrency",
     "discord-js",
-    "cryptoprices"
+    "cryptoprice"
   ]
 }
