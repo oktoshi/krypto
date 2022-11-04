@@ -11,5 +11,6 @@ export default {
     'bnb',
     'solana',
     'dogecoin',
+    'okcash',
   ],
 };
