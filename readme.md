@@ -35,6 +35,10 @@
    `npm install pm2 -g`
 
    `npm start`
+   
+   or
+   
+   `pm2 start ./src/index.js --node-args='-r dotenv/config' --name krypto`
 
 #### Creating a Discord bot: [Guide](https://discord.com/developers/applications 'Guide')
 
