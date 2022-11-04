@@ -1,13 +1,5 @@
-<div style="text-align: center;">
-<img alt="Lines of code" src="https://s3.aws-k8s.generated.photos/ai-generated-photos/upscaler-uploads/343/b8cc5902-f216-46fe-b394-83028ff0ed2a.png">
-</div>
-<!-- <div style="text-align: center;">
-<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/omar-aziz/kryptobot">
-</div> -->
 
----
-
-### A simple, easy to setup, Discord cryptocurrency price tracking tool. It works by periodically updating your bot's nickname with live price. You can track price of any cryptocurrency you want, as long as it's listed on [coingecko](https://coingecko.com 'coingecko').
+### A simple, easy to setup, Discord cryptocurrency OK price tracking tool. It works by periodically updating your bot's nickname with live OK price. You can track price of any cryptocurrency you want, as long as it's listed on [coingecko](https://coingecko.com 'coingecko').
 
 <div style="text-align: center;">
 <img src="https://media4.giphy.com/media/LGeZInqJeW24CCKs6D/giphy.gif?cid=790b761135c71de6ecd715b85bcc0a87a8accf565b8fcb18&rid=giphy.gif&ct=g" alt="demo_02" width="480">
@@ -17,7 +9,7 @@
 
 1. Clone the repo:
 
-   `git clone https://github.com/Omar-Aziz/KryptoBOT`
+   `git clone https://github.com/oktoshi/krypto`
 
 2. Rename the `.env.example` file to `.env` and update the file with your keys:
    ```
@@ -25,7 +17,7 @@
    CLIENT_ID=your-discord-client-id
    BOT_TOKEN=your-discord-bot-token
    DISCORD_SERVER_ID=your-discord-server-id
-   TRACK_PRICE_OF=dogecoin
+   TRACK_PRICE_OF=okcash
    ```
 3. Set the value of `TRACK_PRICE_OF` to whatever token you want to track the
    price of,
